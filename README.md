@@ -5,7 +5,8 @@ A full-stack real-time chat application built with the MERN stack, featuring ins
 <img width="1894" height="1384" alt="Screenshot 2026-04-17 234844" src="https://github.com/user-attachments/assets/f985d438-3433-442e-a0a6-6a61784ea3bc" />
 
 
-<img width="1452" height="1513" alt="Screenshot 2026-04-17 235341" src="https://github.com/user-attachments/assets/7eedb536-4845-414a-8682-303b6d60d20b" />
+<img width="1452" height="1363" alt="Screenshot 2026-04-17 235341" src="https://github.com/user-attachments/assets/2144534b-e2c5-4368-9676-617e4de5ace6" />
+
 
 ---
 
